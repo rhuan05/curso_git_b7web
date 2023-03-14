@@ -1,3 +1,1 @@
-Curso de Git.
-
-Alteração feita no master.
+Meu commit feito no repositório (ATUALIZADO).
